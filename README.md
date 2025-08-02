@@ -6,7 +6,7 @@
 
 **AI-Powered Skin Lesion Detection & Diagnosis Platform**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-00D4AA?style=for-the-badge)](https://skinalgnosis.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-00D4AA?style=for-the-badge)](https://skincancer.vercel.app/)
 [![Model](https://img.shields.io/badge/🤖_AI_Model-Download-FF6B6B?style=for-the-badge)](https://drive.google.com/file/d/1vzNYR_Z4WYRKQQYGRvQ6PgTFs2k60k7Z/view?usp=sharing)
 [![Backend](https://img.shields.io/badge/🚀_Backend-Hugging_Face-FFD93D?style=for-the-badge)](https://huggingface.co/spaces/ekjotsingh/backend)
 
@@ -101,7 +101,7 @@ Our AI model is trained to detect and analyze the following skin conditions:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YashGoyal06/SKIN-LESIONS.git
+   git clone https://github.com/ekjotsinghmakhija/SKIN-LESIONS.git
    cd SKIN-LESIONS
    ```
 
@@ -256,8 +256,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Need Help?** We're here to assist you!
 
-[![Email](https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail)](mailto:support@skinalgnosis.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Issues-black?style=for-the-badge&logo=github)](https://github.com/YashGoyal06/SKIN-LESIONS/issues)
+[![Email](https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail)](mailto:support@skincancer.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Issues-black?style=for-the-badge&logo=github)](https://github.com/ekjotsinghmakhija/SKIN-LESIONS/issues)
 
 </div>
 
@@ -267,10 +267,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/YashGoyal06/SKIN-LESIONS?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YashGoyal06/SKIN-LESIONS?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YashGoyal06/SKIN-LESIONS)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YashGoyal06/SKIN-LESIONS)
+![GitHub stars](https://img.shields.io/github/stars/ekjotsinghmakhija/SKIN-LESIONS?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ekjotsinghmakhija/SKIN-LESIONS?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ekjotsinghmakhija/SKIN-LESIONS)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ekjotsinghmakhija/SKIN-LESIONS)
 
 </div>
 
@@ -282,6 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Advancing healthcare through artificial intelligence*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Try_Now-skinalgnosis.vercel.app-00D4AA?style=for-the-badge)](https://skinalgnosis.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Try_Now-skincancer.vercel.app-00D4AA?style=for-the-badge)](https://skinalgnosis.vercel.app/)
 
 </div>
