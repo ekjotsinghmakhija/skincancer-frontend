@@ -282,6 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Advancing healthcare through artificial intelligence*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Try_Now-skincancer.vercel.app-00D4AA?style=for-the-badge)](https://skinalgnosis.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Try_Now-skincancer.vercel.app-00D4AA?style=for-the-badge)](https://skinlesionrdetectionge1.vercel.app/)
 
 </div>
