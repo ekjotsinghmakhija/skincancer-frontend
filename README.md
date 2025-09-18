@@ -4,7 +4,7 @@
 
 ![SKIN ALGNOSIS Logo](https://img.shields.io/badge/SKIN-ALGNOSIS-8B5CF6?style=for-the-badge&logo=medical&logoColor=white)
 
-**AI-Powered Skin Lesion Detection & Diagnosis Platform**
+**AI-Powered Skin Cancer Detection & Diagnosis Platform**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-00D4AA?style=for-the-badge)](https://skincancer.vercel.app/)
 [![Model](https://img.shields.io/badge/🤖_AI_Model-Download-FF6B6B?style=for-the-badge)](https://drive.google.com/file/d/1vzNYR_Z4WYRKQQYGRvQ6PgTFs2k60k7Z/view?usp=sharing)
